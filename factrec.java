@@ -12,5 +12,6 @@ public class factrec {
         Scanner sc=new Scanner(System.in);
         int n=sc.nextInt();
         System.out.println(fact(n));
+        sc.close();
         }
 }

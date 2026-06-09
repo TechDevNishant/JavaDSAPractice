@@ -36,5 +36,6 @@ public class searinmat {
         System.out.println("Enter the Number to search");
         int k=sc.nextInt();
         search(arr,k);
+        sc.close();
      }
 }
