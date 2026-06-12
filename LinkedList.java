@@ -26,7 +26,7 @@ public class LinkedList {
         LinkedList ll=new LinkedList();
         ll.addfirst(4);
         ll.addfirst(8);
-        ll.addfirst(15);
+     
     }
 }
 
